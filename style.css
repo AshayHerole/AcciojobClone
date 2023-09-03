@@ -1,0 +1,226 @@
+.navbar{
+    font-size: medium;
+    font-family: 'Inter', sans-serif;
+position: fixed;
+}
+.mhg{
+    display: block;
+    background-color: #2f80ed;
+    font-style: italic;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+}
+
+.myherosec{
+    position: relative;
+    height: 600px;
+    
+   
+    
+}
+.herosec1{
+   
+    position: absolute;
+    left: 40px;
+    top: 70px;
+    padding: 20px;
+}
+
+.showcase{
+    
+    background-color: #ffffff;
+    height: 50px;
+    width: 600px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.herosec2{
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    height: 500px;
+    width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.mheading{
+    text-align: center;
+}
+.msubheading{
+    height: 20px;
+}
+
+.input1{
+    height: 50px;
+    width: 300px;
+   
+    margin: auto;
+    
+    
+}
+.input11{
+border-radius: 5px;
+}
+
+.herosec3{
+    position: absolute;
+    bottom: 130px;
+    left: 50px;
+    height: 40px;
+    width: 30%;
+    border: 2px solid whitesmoke;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ text-align: center;
+ vertical-align: middle;
+ line-height: 40px;
+}
+
+#coursesec{
+    background-color: #ecf8ff;
+    height: 800px;
+    padding: 80PX;
+}
+.mcc{
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.cc1{
+    padding: 20px;
+    height: 550px;
+    width: 500px;
+    background-color:#ffffff;
+
+
+
+}
+.lastbutton{
+    justify-content:space-evenly;
+}
+.cardroundmy{
+    justify-content:space-evenly;
+}
+
+.mcc{
+    justify-content:space-evenly;
+}
+
+#company{
+    height: 700px;
+    
+}
+td{
+    text-align: center;
+}
+.cs5{
+    
+padding: 20px;
+    
+    height: 130px;
+    text-align: center;
+    width: 100%;
+
+}
+.mytable{
+width: 90%;
+margin: 0 auto;
+display: table;
+align-content: space-between;
+
+}
+
+.tc1:hover{
+    background-color:black;
+    box-shadow: 0px 0px 50px rgb(14, 18, 233);
+   
+}
+.td1:hover{
+    background-color: black;
+    box-shadow: 0px 0px 50px rgb(238, 9, 9);
+}
+
+.td2:hover{
+    background-color: black;
+    box-shadow: 0px 0px 50px rgb(238, 234, 9);
+}
+
+.td3:hover{
+    background-color: black;
+    box-shadow: 0px 0px 50px rgb(10, 238, 21);
+} 
+.td4:hover{
+    background-color: black;
+    box-shadow: 0px 0px 50px rgb(116, 10, 238);
+}
+
+.td5:hover{
+    background-color: black;
+    box-shadow: 0px 0px 50px rgb(238, 10, 143);
+} 
+.td6:hover{
+    background-color: black;
+    box-shadow: 0px 0px 50px rgb(65, 241, 12);
+}
+
+.tc2:hover{
+    background-color:black;
+    box-shadow: 0px 0px 50px rgb(233, 14, 14);
+   
+} 
+
+.tc3:hover{
+    background-color:black;
+    box-shadow: 0px 0px 50px rgb(14, 233, 14);
+   } 
+
+   .buttonhover:hover{
+    box-shadow: 0px 0px 50px rgb(238, 9, 9);
+   }
+   .cc1m{
+    justify-content: space-between;
+    padding: 10px;
+   
+   }
+  
+.cm1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cardmain{
+    height: 900px;
+    width: 1100px;
+    position: relative;
+    margin-left: 90px;
+}
+.lc1{
+    position: absolute;
+    left: 5px;
+    top: 10px;
+}
+.lc3{
+    position: absolute;
+    left: 315px;
+    top: 10px;
+    }
+    .lc4{
+        position: absolute;
+        left: 5px;
+        bottom: 170px;
+    }
+    .lc5{
+        position: absolute;
+        left: 630px;
+        top: 10px;
+    }
+    .lc6{
+        position: absolute;
+        left: 630px;
+        bottom: 170px;
+    }
+    .lc2{
+        position: absolute;
+        left: 315px;
+        top: 340px;
+    }
